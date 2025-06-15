@@ -1,2 +1,2 @@
-# google-machine-learning-crash-course
+# machine-learning-cc
 Google Machine Learning Crash Course 
